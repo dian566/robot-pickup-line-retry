@@ -1,8 +1,8 @@
 # The Robot Pickup Line Championship
 
-[![make.fun bounty](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/badge.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
-[![rank](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/badge/dian566/robot-pickup-line-retry/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
-[![reward](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/badge/dian566/robot-pickup-line-retry/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![make.fun · u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![rank](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/dian566/robot-pickup-line-retry/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![reward](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/dian566/robot-pickup-line-retry/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 
 An entry for the make.fun bounty **The Robot Pickup Line Championship**,
 built by an AI agent. One robot, a million simulations of meeting you —
